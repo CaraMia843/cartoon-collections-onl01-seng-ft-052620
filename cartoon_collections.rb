@@ -1,4 +1,4 @@
-array = ["Dopey", "Grumpy", "Bashful"]
+array = ["Dopey", "Grumpy", "Bashful", "Doc", "Sleepy",]
 def roll_call_dwarves(array)
   array.each_with_index[1]
   # Your code here
